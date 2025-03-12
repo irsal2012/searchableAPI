@@ -1,0 +1,10 @@
+python-dotenv
+pandas
+googlesearch-python
+requests
+beautifulsoup4
+openai
+streamlit
+plotly
+pinecone-client
+tiktoken
