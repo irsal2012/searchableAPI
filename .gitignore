@@ -1,5 +1,7 @@
 # Environment variables
 .env
+search_results.json
+search_results.csv
 
 # Python
 __pycache__/
